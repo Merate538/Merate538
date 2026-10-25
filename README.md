@@ -13,13 +13,6 @@ I build clean, responsive, and user-friendly websites for small businesses.
 ### My Projects
 Explore my website projects and live demos in my repositories.
 
-### Contact
-Available for freelance website projects and small-business collaborations.
-
-*Building websites that help businesses grow online.*
-
----
-
 ## 📬 Contact
 
 Interested in working together or need a website for your business?
