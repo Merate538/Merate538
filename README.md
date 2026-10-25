@@ -17,3 +17,15 @@ Explore my website projects and live demos in my repositories.
 Available for freelance website projects and small-business collaborations.
 
 *Building websites that help businesses grow online.*
+
+---
+
+## 📬 Contact
+
+Interested in working together or need a website for your business?
+
+- **Email:** [Zaylopika@gmail.com](mailto:Zaylopika@gmail.com)
+- **GitHub:** [Merate538](https://github.com/Merate538)
+
+I'm open to discussing website projects.
+
